@@ -43,9 +43,10 @@ body {
       height: 50%;
       display: flex;
       flex-direction: column;
-      flex-wrap: wrap;
+      flex-wrap: nowrap;
       align-content: center;
       border-radius: 20px;
+
 }
 img {
   width: 100%;
@@ -53,6 +54,7 @@ img {
   flex-wrap: wrap;
   align-content: center;
   border-radius: 20px;
+  
 }
 
 .buttonImages {
@@ -74,4 +76,25 @@ img {
 transform: scale(1.15);
 cursor:url(https://cdn.custom-cursor.com/db/pointer/32/Harry_Potter_Nimbus_2000_andGoldenSnitchPointer.png) ,
 pointer!important
+}
+
+.fourHouses  {
+  
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  width: 200%;
+  height: 200%;
+  display: flex;
+  
+
+}
+#charactersTitle {
+  color: white;  
+  font-family: 'SPQR', sans-serif;
+  font-size: 30px;
+  text-align: center;
+  @import url('http://fonts.cdnfonts.com/css/spqr');
+  
+
 }
