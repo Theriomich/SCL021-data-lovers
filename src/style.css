@@ -9,6 +9,9 @@ body {
   margin-bottom: 40px;
   background-size: cover;
   background-repeat: no-repeat;
+  cursor: url(https://cdn.custom-cursor.com/db/cursor/32/Harry_Potter_Nimbus_2000_andGoldenSnitchCursor.png),
+  pointer ;
+
 }
 
 #title {
@@ -24,10 +27,10 @@ body {
 #subTitle {
   color: white;
   -webkit-text-stroke: 0.5px rgb(104, 106, 106);
-  font-family: "Overdose", sans-serif;
+  font-family: 'NIGHTMARE PILLS', sans-serif;
   font-size: 40px;
   text-align: center;
-  @import url("http://fonts.cdnfonts.com/css/overdose");
+  @import url('http://fonts.cdnfonts.com/css/nightmare-pills');
 }
 
 #container-gallery {
@@ -100,3 +103,78 @@ img {
   @import url('http://fonts.cdnfonts.com/css/spqr');
 
 }
+
+#charactersTable{
+  
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  text-align: start;
+  
+}
+
+.tableCharacter{
+  border: 5px inset rgb(241, 233, 233);
+  margin: 2%;
+  padding-left: 2%;
+  height: 50%;
+  width: 70%;
+}
+
+#spellsTitle{
+  color: azure;
+  text-align: center;
+  font-size: 100px;
+  font-family: 'AuldMagick Bold', sans-serif;
+ @import url('http://fonts.cdnfonts.com/css/auldmagick');                
+}
+
+#spellsSubTitle{
+  color: white;  
+  font-family: 'NIGHTMARE PILLS', sans-serif;
+  font-weight: bold;
+  font-size: 40px;
+  text-align: center;
+  @import url('http://fonts.cdnfonts.com/css/nightmare-pills');
+}
+
+.spellsFooter{
+  align-items: center;
+  align-content: center;
+  cursor:url(https://cdn.custom-cursor.com/db/pointer/32/Harry_Potter_Nimbus_2000_andGoldenSnitchPointer.png),
+  pointer 
+}
+
+.indexButtonDiv{
+  display: flex;
+  justify-content: center;
+
+}
+
+.indexButtonDiv:hover {
+  transition:inherit;  
+
+}
+.indexButton{
+  width: 35%;  
+  height: 51%;
+  align-items: center;
+  padding: 0;
+  border: none;
+  background: none;  
+  
+}
+
+.indexButton:hover{
+
+  
+  cursor:url(https://cdn.custom-cursor.com/db/pointer/32/Harry_Potter_Nimbus_2000_andGoldenSnitchPointer.png),
+   pointer 
+   
+}
+
+.footer {
+  cursor:url(https://cdn.custom-cursor.com/db/pointer/32/Harry_Potter_Nimbus_2000_andGoldenSnitchPointer.png),
+  pointer 
+}
+
+  

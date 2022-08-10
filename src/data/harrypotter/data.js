@@ -28,7 +28,7 @@ export default {
       "eye_color": null,
       "wand": null,
       "patronus": null,
-      "house": "Ravenclaw",
+      "house": "Gyffindor",
       "associated_groups": [],
       "books_featured_in": [4]
     },
@@ -44,7 +44,7 @@ export default {
       "eye_color": null,
       "wand": null,
       "patronus": null,
-      "house": null,
+      "house": "Gryffindor",
       "associated_groups": ["Africa"],
       "books_featured_in": [1]
     },
