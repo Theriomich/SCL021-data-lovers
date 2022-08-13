@@ -1642,7 +1642,7 @@ export default {
       "gender": "Male",
       "hair_color": "Straw blonde",
       "eye_color": null,
-      "wand": "Harry Potter's wand (briefly)",
+      "wand": " Potter's wand (briefly)",
       "patronus": "None",
       "house": null,
       "associated_groups": ["Lord Voldemort", "Death Eaters", "Hogwarts School of Witchcraft and Wizardry"],
@@ -5462,7 +5462,8 @@ export default {
     },
     {
       "id": 326,
-      "name": "Harry Potter",
+      "name": "Harry Potter", 
+      "image": "\t<img src=\"https://c.tenor.com/CFTMtlT6uTIAAAAd/harry-potter.gif\" \t alt=\"HarryPotter\"  \tclass=\"thumbimage \" \t \tdata-image-key=\"HarryPotter.Gif\" \tdata-image-name=\"castleH.Gif\" \t \t width=\"30\"  \t height=\"30\"  \t \t \t \t>",
       "birth": "31 July, 1980",
       "death": null,
       "species": "Human",
@@ -5486,9 +5487,10 @@ export default {
         "British Ministry of Magic",
         "Auror Office",
         "Department of Magical Law Enforcement",
-        "S.P.E.W."
+        "S.P.E.W.",
+        
       ],
-      "books_featured_in": [1, 2, 3, 4, 5, 6, 7]
+      "books_featured_in": [1, 2, 3, 4, 5, 6, 7] 
     },
     {
       "id": 327,
@@ -7381,6 +7383,7 @@ export default {
     {
       "id": 476,
       "name": "Ronald Weasley",
+      "image":"\t<img src=\"https://64.media.tumblr.com/bd057a9cef80d68ffa680834ab4ca7a0/49445fce0c4c9d64-1a/s400x600/861f844b5523e5c46440fb2046809e5054a7f241.gifv\" \t alt=\"HarryPotter\"  \tclass=\"thumbimage \" \t \tdata-image-key=\"HarryPotter.Gif\" \tdata-image-name=\"castleH.Gif\"  \t \t width=\"10%\"  \t height=\"10%\"  \t \t \t \t>",
       "birth": "1 March, 1980",
       "death": null,
       "species": "Human",
@@ -9183,7 +9186,8 @@ export default {
     },
     {
       "id": 587,
-      "name": "Hermione Granger",
+      "name": "Hermione Granger", 
+      "image": "\t<img src=\"https://th.bing.com/th/id/R.4e918773aacf101ca5312407a40043de?rik=gk2MnhkDJdf2tw&pid=ImgRaw&r=0\" \t alt=\"HarryPotter\"  \tclass=\"thumbimage \" \t \tdata-image-key=\"HarryPotter.Gif\" \tdata-image-name=\"castleH.Gif\" \t \t width=\"30\"  \t height=\"30\"  \t \t \t \t>",
       "birth": "19 September, 1979",
       "death": null,
       "species": "Human",
@@ -12019,43 +12023,43 @@ export default {
   funFacts: [
     {
       "id": 1,
-      "type": "Author",
-      "content": "J. K. Rowling"
+      "name": "Hogwarts",
+      "content": "El castillo de Hogwarts es una maqueta construida por 82 artistas  se extiende a lo largo de  Construído por 86 artistas, se extiende a lo largo de más de 15 metros e incorpora más de 2.500 luces de fibra óptica para simular antorchas y personas caminando por su interior. Se basa en el castillo de Alnwick y en la catedral de Durham \t<img src=\"https://i0.wp.com/www.labrujulaverde.com/wp-content/uploads/2016/10/hogwarts-1.jpg?fit=630%2C405&ssl=1\" \t alt=\"HowartsCastle2\"  \tclass=\"thumbimage \" \t \tdata-image-key=\"TwoProtego.JPG\" \tdata-image-name=\"castle.JPG\" \t \t width=\"30\"  \t height=\"30\"  \t \t \t \t> \t<img src=\"https://i0.wp.com/www.labrujulaverde.com/files/2012/03/hogwarts-2.jpg?w=580&ssl=1\" \t alt=\"HowartsCastle2\"  \tclass=\"thumbimage \" \t \tdata-image-key=\"TwoProtego.JPG\" \tdata-image-name=\"castle.JPG\" \t \t width=\"30\"  \t height=\"30\"  \t \t \t \t>", 
     },
     {
       "id": 2,
-      "type": "Protagonist",
-      "content": "Harry Potter"
+      "name": "Hogwarts a través de los ojos de un muggle",
+      "content": "Si los muggles llegaran a descubrir el paredero de Hogwarts, se encontrarían con un edificio en ruinas con un cartel de <em>Mantenerse fuera: <strong>Peligro<strong></em> \t<img src=\"https://cdn.superaficionados.com/imagenes/hogwarts-cke.jpg\" \t alt=\"HowartsCastle2\"  \tclass=\"thumbimage \" \t \tdata-image-key=\"Howarts.JPG\" \tdata-image-name=\"castleH.JPG\" \t \t width=\"30\"  \t height=\"30\"  \t \t \t \t>"
     },
     {
       "id": 3,
-      "type": "Antatagonist",
-      "content": "Lord Voldemort"
+      "name": "La edad de Lord Voldemort ",
+      "content": "¿Sabías que en la batalla final en Hogwarts Voldemort tiene 71 años? \t<img src=\"https://supercurioso.com/wp-content/uploads/2018/02/2-La-edad-de-Voldemort-1.jpg\" \t alt=\"HowartsCastle2\"  \tclass=\"thumbimage \" \t \tdata-image-key=\"Voldemort.JPG\" \tdata-image-name=\"voldemort.JPG\" \t \t width=\"30\"  \t height=\"30\"  \t \t \t \t>"
     },
     {
       "id": 4,
-      "type": "Harry Potter's magic wand",
-      "content": "Harry Potter's wand was 11 long, made of holly, and possessed a phoenix feather core. This was described by Garrick Ollivander to be an unusual combination of wand core and wood. The feather was donated by Fawkes, Albus Dumbledore's phoenix."
+      "name": "La varita de Harry Potter",
+      "content": "La varita de Harry Potter tenía 11 años, estaba hecha de acebo y poseía un núcleo de plumas de fénix. Esto fue descrito por Garrick Ollivander como una combinación inusual de núcleo de varita y madera. La pluma fue donada por Fawkes, el fénix de Albus Dumbledore. \t<img src=\"https://i.pinimg.com/originals/78/34/cc/7834cc8e0cd0d3ea2a6428240b796222.gif\" \t alt=\"WandHarry\"  \tclass=\"thumbimage \" \t \tdata-image-key=\"voldemort.JPG\" \tdata-image-name=\"wand.JPG\" \t \t width=\"30\"  \t height=\"30\"  \t \t \t \t>"
     },
     {
       "id": 5,
-      "type": "Lord Voldemort's magic wand",
-      "content": "Lord Voldemort's wand was 11 long, made of holly, and possessed a phoenix feather core. This was described by Garrick Ollivander to be an unusual combination of wand core and wood. The feather was donated by Fawkes, Albus Dumbledore's phoenix."
+      "name": " Harry y Voldemort... ¿parientes?",
+      "content": " Harry y Voldemort son <strong>parientes lejanos</strong>.<br>Sus ancestros se remontan a la familia <strong>Peverell</strong>, como la mayoría de las familias de magos. \t<img src=\"https://cdn.superaficionados.com/imagenes/parientes-lejanos.jpg\" \t alt=\"HowartsCastle2\"  \tclass=\"thumbimage \" \t \tdata-image-key=\"Voldemort.JPG\" \tdata-image-name=\"voldemort.JPG\" \t \t width=\"30\"  \t height=\"30\"  \t \t \t \t>"
     },
     {
       "id": 6,
-      "type": "Lord Voldemort's real name",
-      "content": "Tom Marvolo Riddle (mixing the letters it ends up being Lord Voldemort)"
+      "name": "Las cuatro casas",
+      "content": "Las cuatro casas en Hogwarts simbolizan los cuatro elementos. Gryffindor es fuego, Ravenclaw es aire, Hufflepuff es tierra y Slytherin es agua. \t<img src=\"https://cdn.superaficionados.com/imagenes/casas-hogwarts-cke.jpg\" \t alt=\"HowartsHouses\"  \tclass=\"thumbimage \" \t \tdata-image-key=\"houses.JPG\" \tdata-image-name=\"houses.JPG\" \t \t width=\"30\"  \t height=\"30\"  \t \t \t \t>"
     },
     {
       "id": 7,
-      "type": "Houses",
-      "content": "At the school Hogwarts there are four houses: Gryffindor, Ravenclaw, Hufflepuff and Slytherin"
+      "name": "El mayor miedo de Voldemort",
+      "content": "Si Voldemort se topase con un <strong>boggart</strong>, el no-ser amortal encarnaría su propio cadáver, ya que la muerte siempre fue el mayor temor del mayor enemigo de Harry. \t<img src=\"https://cdn.superaficionados.com/imagenes/voldemort-cke.jpg\" \t alt=\"VoldemortFear\"  \tclass=\"thumbimage \" \t \tdata-image-key=\"voldemort.JPG\" \tdata-image-name=\"castleH.JPG\" \t \t width=\"30\"  \t height=\"30\"  \t \t \t \t>"
     },
     {
       "id": 8,
-      "type": "Wands",
-      "content": "Harry's wand and Voldemort's wand were twins, that's why they couldn't kill each other"
+      "name": " Draco, ladrón de comida",
+      "content": "Durante el rodaje de Harry Potter y el Prisionero de Azkaban, el equipo cosió los bolsillos de las túnicas que usaba Tom Felton para impedir que robara comida en el set. \t<img src=\"https://cdn.superaficionados.com/imagenes/draco-malfoy-cke.jpg\" \t alt=\"VoldemortFear\"  \tclass=\"thumbimage \" \t \tdata-image-key=\"voldemort.JPG\" \tdata-image-name=\"castleH.JPG\" \t \t width=\"30\"  \t height=\"30\"  \t \t \t \t>"
     }
   ],
   spells: [
@@ -14505,7 +14509,7 @@ export default {
       "id": 223,
       "name": "Protego Maxima",
       "other_name": null,
-      "pronunciation": "pro-TAY-goh MAX-ee-Ma  \t<img src=\"https://vignette.wikia.nocookie.net/harrypotter/images/6/6b/TwoProtego.JPG/revision/latest/scale-to-width-down/210?cb=20110627134927\" \t alt=\"TwoProtego\"  \tclass=\"thumbimage \" \t \tdata-image-key=\"TwoProtego.JPG\" \tdata-image-name=\"TwoProtego.JPG\" \t \t width=\"210\"  \t height=\"89\"  \t \t \t \t>",
+      "pronunciation": "pro-TAY-goh MAX-ee-Ma",
       "spell_type": "Charm",
       "description": "A powerful shield charm against dark magic. A stronger and bigger version of Protego, especially when combined with other wizards casting it at the same time. Was so powerful that it could also disintegrate people that came too close and tried to enter it.",
       "mention": "Cast by Professor Flitwick, Professor McGonagall, Professor Slughorn and Mrs Weasley in an attempt to strengthen the castle's defences in the Battle of Hogwarts.",

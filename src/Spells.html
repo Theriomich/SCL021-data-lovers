@@ -3,18 +3,19 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Hechizos</title>
+    <title id="spells_title">Hechizos</title>
     <link rel="stylesheet" href="style.css" />
     <link href="http://fonts.cdnfonts.com/css/spqr" rel="stylesheet">
     <link href="http://fonts.cdnfonts.com/css/auldmagick" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Crimson+Text|Julius+Sans+One|Oswald" rel="stylesheet">
     <link href="http://fonts.cdnfonts.com/css/nightmare-pills" rel="stylesheet">
+    <link href="http://fonts.cdnfonts.com/css/goudy-mediaeval" rel="stylesheet">
 </head>
 <header>
 
     <body>
-        <h1 id="spellsTitle">Hechizos</h1>
-        <h2 id="spellsSubTitle">¿Que hechizo quieres buscar?</h2>
+        <h1 class="allTitles">Hechizos</h1>
+        <h2 class="subTitleAll">¿Que hechizo quieres buscar?</h2>
 
        
 
@@ -22,13 +23,15 @@
 
 <div class="indexButtonDiv">
     <a href="index.html">
-        <button class="indexButton">
-           <img src="\img\pergamine.png" alt="backToIndex">
+        <div class="contenedor">
+            <img src=".\img\pergamine.png" />  
+            <div class="centrado">Volver al inicio</div>
+          </div>
         </button>
       </a>
 </div>
 
-    </body>
+   
 </header>
 
 <footer class="spellsFooter">
@@ -37,5 +40,7 @@
 </footer>
 
 <script src="spells.js" type="module"></script>
+<script src="music.js" type="module"></script>
+</body>
 
 </html>

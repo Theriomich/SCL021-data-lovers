@@ -1,19 +1,12 @@
 import { filterData } from './data.js';
 import data from './data/harrypotter/data.js';
+import { playSound } from './music.js';
+
+document.addEventListener('click', playSound);
+
 const allCharacters = data.characters
 
 
-const playSound = function () {
-  let element = document.createElement('div');
-  element.setAttribute('style', 'display: none');
-  element.innerHTML = `
-      <audio autoplay loop>s
-        <source src="Harry Potter Theme Song.mp3" type="audio/mp3">    
-      </audio>  `;
-  document.body.appendChild(element);
-  document.removeEventListener('click', playSound);
-}
-document.addEventListener('click', playSound);
 let divT = document.getElementById("charactersTable")
 //Guardo en una variable los datos de los personajes, filtro por la casa y los creo en tabla
 let characters = filterData(allCharacters, "Gryffindor")
@@ -21,7 +14,7 @@ document.getElementById("gryffindor").addEventListener("click", function () {
   divT.innerHTML = ""
   characters.forEach((character) => {
     return document.getElementById("charactersTable").innerHTML +=
-      `<table class="tableCharacter"><tr><td><strong>Nombre</strong>:${character.name}</td><br> 
+      `<table class="allTables"><tr><td><strong>Nombre</strong>:${character.name}${character.image}</td><br> 
     <tr><td><strong>Nacimiento</strong>:${character.birth}</tr></td>
     <tr><td><strong>Muerte</strong>:${character.death}</td></tr>
      <tr><td><strong>Especie</strong>:${character.species}</td></tr>
@@ -42,7 +35,7 @@ document.getElementById("slythering").addEventListener("click", function () {
   divT.innerHTML = ""
   characters2.forEach((character) => {
     return document.getElementById("charactersTable").innerHTML +=
-      `<table class="tableCharacter"><tr><td><strong>Nombre</strong>:${character.name}</td><br> 
+      `<table class="allTables"><tr><td><strong>Nombre</strong>:${character.name}</td><br> 
     <tr><td><strong>Nacimiento</strong>:${character.birth}</tr></td>
     <tr><td><strong>Muerte</strong>:${character.death}</td></tr>
      <tr><td><strong>Especie</strong>:${character.species}</td></tr>
@@ -63,7 +56,7 @@ document.getElementById("revenclaw").addEventListener("click", function () {
   divT.innerHTML = ""
   characters3.forEach((character) => {
     return document.getElementById("charactersTable").innerHTML +=
-      `<table class="tableCharacter"><tr><td><strong>Nombre</strong>:${character.name}</td><br> 
+      `<table class="allTables"><tr><td><strong>Nombre</strong>:${character.name}</td><br> 
     <tr><td><strong>Nacimiento</strong>:${character.birth}</tr></td>
     <tr><td><strong>Muerte</strong>:${character.death}</td></tr>
      <tr><td><strong>Especie</strong>:${character.species}</td></tr>
@@ -84,7 +77,7 @@ document.getElementById("hafelpuf").addEventListener("click", function () {
   divT.innerHTML = ""
   characters4.forEach((character) => {
     return document.getElementById("charactersTable").innerHTML +=
-      `<table class="tableCharacter"><tr><td><strong>Nombre</strong>:${character.name}</td><br> 
+      `<table class="allTables"><tr><td><strong>Nombre</strong>:${character.name}</td><br> 
     <tr><td><strong>Nacimiento</strong>:${character.birth}</tr></td>
     <tr><td><strong>Muerte</strong>:${character.death}</td></tr>
      <tr><td><strong>Especie</strong>:${character.species}</td></tr>
@@ -105,7 +98,7 @@ document.getElementById("muggle").addEventListener("click", function () {
   divT.innerHTML = ""
   characters5.forEach((character) => {
     return document.getElementById("charactersTable").innerHTML +=
-      `<table class="tableCharacter"><tr><td><strong>Nombre</strong>:${character.name}</td><br> 
+      `<table class="allTables"><tr><td><strong>Nombre</strong>:${character.name}</td><br> 
      <tr><td><strong>Nacimiento</strong>:${character.birth}</tr></td>
      <tr><td><strong>Muerte</strong>:${character.death}</td></tr>
       <tr><td><strong>Especie</strong>:${character.species}</td></tr>
