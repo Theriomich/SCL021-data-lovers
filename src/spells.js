@@ -8,7 +8,7 @@ const allSpells = data.spells
 
   allSpells.forEach((spell) => {    
     document.getElementById("spellsDiv").innerHTML+=
-    `<table class="allTables"><tr><td><strong>Nombre</strong>:${spell.name}</td><br> 
+    `<table class="allTablesSpell"><tr><td><strong>Nombre</strong>:${spell.name}${spell.image}</td><br> 
      <tr><td><strong>Otro Nombre</strong>:${spell.other_name}</tr></td>
      <tr><td><strong>Pronunciacion</strong>:${spell.pronunciation}</td></tr>
       <tr><td><strong>Tipo</strong>:${spell.spell_type}</td></tr>

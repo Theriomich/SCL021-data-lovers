@@ -154,6 +154,7 @@ img {
   align-items: baseline;
   text-align: center;
   opacity: 0.5;
+  margin-top: 18%;
 }
 
 .indexButtonDiv:hover{
@@ -233,8 +234,6 @@ img {
 border-radius: 30px 20px 30px 20px;
 line-height: 1.5;
 
-
-  
  } 
 
  .curiosityTable {
@@ -275,3 +274,119 @@ border-radius: 30px 20px 30px 20px;
   margin-bottom: 22%;
 
 }
+
+.allTablesSly img {
+  width: 290px;
+  height: 290px;
+  align-content: flex-end;  
+  position: absolute;
+  margin-left: 16%;
+  margin-bottom: 22%;
+
+}
+
+.allTablesSly {
+  border: 5px inset rgb(110, 79, 18, 0.92);
+  margin: 2%;
+  padding-left: 2%;
+  height: 50%;
+  width: 70%;
+  color: black;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    @import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+  background-image: url("./img/fondoperg OP.png");
+ border-radius: 30px 20px 30px 20px;
+ line-height: 1.5;
+
+ } 
+
+ footer {
+  text-align: center;
+  color: white;
+  width: 40%;
+  height: 40px;
+  position: relative;
+  bottom: 0;
+  margin-top: 20%;
+  display: block;
+  margin-left: 30%;
+  font-family: 'BV Cursive Ital', sans-serif;
+  font-size: 23px;
+  @import url('http://fonts.cdnfonts.com/css/bv-rondes');
+}
+
+.footerGit img {
+
+  width: 50px;
+  height: 50px;
+  text-align: center;
+  filter: invert(0.9) contrast(80%);
+ 
+}
+
+.footerGit img:hover{
+-webkit-transform: rotateY(180deg);
+-webkit-transform-style: preserve-3d;
+transform: rotateY(180deg);
+transform-style: preserve-3d;
+
+}
+
+a {
+  color: aliceblue;  
+  cursor:url(https://cdn.custom-cursor.com/db/pointer/32/Harry_Potter_Nimbus_2000_andGoldenSnitchPointer.png),
+   pointer !important
+   
+}
+
+.allTablesSpell img {
+  width: 250px;
+  height: 250px;
+  align-content: flex-end;   
+  margin-left: 21%;
+  margin-bottom: 0%;
+  margin-top: 2%;
+  position: absolute;
+  float: inline-end;
+  
+}
+
+.allTablesSpell {
+  border: 5px inset rgb(110, 79, 18, 0.92);
+  margin: 2%;
+  padding-left: 2%;
+  height: 50%;
+  width: 70%;
+  color: black;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    @import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+  background-image: url("./img/fondoperg OP.png");
+border-radius: 30px 20px 30px 20px;
+line-height: 1.5;
+
+
+ } 
+
+ .allTablesPot {
+  border: 5px inset rgb(110, 79, 18, 0.92);
+  margin: 2%;
+  padding-left: 2%;
+  height: 50%;
+  width: 70%;
+  color: black;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    @import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+  background-image: url("./img/fondoperg OP.png");
+border-radius: 30px 20px 30px 20px;
+  
+ } 
+
+ .allTablesPot img {
+  width: 23%;
+  height: 23%;
+  margin-left: 30%;
+  position: absolute;
+  margin-bottom: 80%;
+  
+  
+ }

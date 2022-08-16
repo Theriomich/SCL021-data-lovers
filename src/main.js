@@ -35,7 +35,7 @@ document.getElementById("slythering").addEventListener("click", function () {
   divT.innerHTML = ""
   characters2.forEach((character) => {
     return document.getElementById("charactersTable").innerHTML +=
-      `<table class="allTables"><tr><td><strong>Nombre</strong>:${character.name}</td><br> 
+      `<table class="allTablesSly"><tr><td><strong>Nombre</strong>:${character.name}${character.image}</td><br> 
     <tr><td><strong>Nacimiento</strong>:${character.birth}</tr></td>
     <tr><td><strong>Muerte</strong>:${character.death}</td></tr>
      <tr><td><strong>Especie</strong>:${character.species}</td></tr>
@@ -56,7 +56,7 @@ document.getElementById("revenclaw").addEventListener("click", function () {
   divT.innerHTML = ""
   characters3.forEach((character) => {
     return document.getElementById("charactersTable").innerHTML +=
-      `<table class="allTables"><tr><td><strong>Nombre</strong>:${character.name}</td><br> 
+      `<table class="allTables"><tr><td><strong>Nombre</strong>:${character.name}${character.image}</td><br> 
     <tr><td><strong>Nacimiento</strong>:${character.birth}</tr></td>
     <tr><td><strong>Muerte</strong>:${character.death}</td></tr>
      <tr><td><strong>Especie</strong>:${character.species}</td></tr>
@@ -77,7 +77,7 @@ document.getElementById("hafelpuf").addEventListener("click", function () {
   divT.innerHTML = ""
   characters4.forEach((character) => {
     return document.getElementById("charactersTable").innerHTML +=
-      `<table class="allTables"><tr><td><strong>Nombre</strong>:${character.name}</td><br> 
+      `<table class="allTables"><tr><td><strong>Nombre</strong>:${character.name}${character.image}</td><br> 
     <tr><td><strong>Nacimiento</strong>:${character.birth}</tr></td>
     <tr><td><strong>Muerte</strong>:${character.death}</td></tr>
      <tr><td><strong>Especie</strong>:${character.species}</td></tr>
@@ -98,7 +98,7 @@ document.getElementById("muggle").addEventListener("click", function () {
   divT.innerHTML = ""
   characters5.forEach((character) => {
     return document.getElementById("charactersTable").innerHTML +=
-      `<table class="allTables"><tr><td><strong>Nombre</strong>:${character.name}</td><br> 
+      `<table class="allTables"><tr><td><strong>Nombre</strong>:${character.name}${character.image}</td><br> 
      <tr><td><strong>Nacimiento</strong>:${character.birth}</tr></td>
      <tr><td><strong>Muerte</strong>:${character.death}</td></tr>
       <tr><td><strong>Especie</strong>:${character.species}</td></tr>
