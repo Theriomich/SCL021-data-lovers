@@ -7,7 +7,7 @@ Nuestra idea partio pensando en una pagina web de data para los fans de Harry Po
 
 
 
-![](file:///Encuesta.png)
+![página principal](src\img\Encuesta.png)
 
 Al tener obtenidos los datos de los usuarios empezamos con el prototipo de como queriamos que se viera nuestra pagina de a cuerdo a los datos obtenidos en la encuesta: 
 
