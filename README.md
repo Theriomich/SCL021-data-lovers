@@ -17,7 +17,7 @@ Al tener obtenidos los datos de los usuarios empezamos con el prototipo de como 
 Elejimos el titulo,tipo de letra, el fondo, las imagenes,etc. Elegimos colores e imagenes con movimiento que fuesen agradables a la vista del usuario y darle un poco más enfasis a los personajes, ya que en la encuesta fue el item más votado. Cada imagen es un boton que los redirige al item que desea ver el usuario. Así se ve nuestra pagina principal:
 
 
-![página principal](src\img\pagina-principal.png)
+![página principal](img src= "src\img\pagina-principal.png")
 
 
 
