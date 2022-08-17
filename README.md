@@ -6,12 +6,12 @@ Nuestra idea partio pensando en una pagina web de data para los fans de Harry Po
 
 
 
-
-![página principal](src\.img\Encuesta.png)
+![página principal](src\img\Encuesta.png)
 
 Al tener obtenidos los datos de los usuarios empezamos con el prototipo de como queriamos que se viera nuestra pagina de a cuerdo a los datos obtenidos en la encuesta: 
 
 
+![página principal](src\img\Prototipo.jpeg)
 
 
 Elejimos el titulo,tipo de letra, el fondo, las imagenes,etc. Elegimos colores e imagenes con movimiento que fuesen agradables a la vista del usuario y darle un poco más enfasis a los personajes, ya que en la encuesta fue el item más votado. Cada imagen es un boton que los redirige al item que desea ver el usuario. Así se ve nuestra pagina principal:
