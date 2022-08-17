@@ -1,12 +1,13 @@
 Proyecto Data Lovers "El Misterioso Mundo de Harry Potter"
+
 Biendenid@s al repositorio de Michelle Cifuentes y Catalina Salinas!
 
-Nuestra idea partio pensando en una pagina web de data para los fans de Harry Potter y decidimos hacer una encuesta a los usuarios para saber mas sobre sus prederencias acerca de las peliculas y libros de Harry Potter:
+Nuestra idea partio pensando en una pagina web de data para los fans de Harry Potter y decidimos hacer una encuesta a los usuarios para saber mas sobre sus preferencias acerca de las películas y libros de Harry Potter:
 
 
 
 
-
+![](file:///Encuesta.png)
 
 Al tener obtenidos los datos de los usuarios empezamos con el prototipo de como queriamos que se viera nuestra pagina de a cuerdo a los datos obtenidos en la encuesta: 
 
@@ -40,7 +41,7 @@ En la pagina de hechizos tenemos mucha data de ellos, algunos con imagenes en mo
 En la pagina de pociones pusimos algunas imagenes en movimiento junto a la data:
 
 
-En la pagina de curiosidades pusimos datos curiosos que consideramos mas relevantes y podrian atraerle al usuario, con imagenes representativas:
+En la pagina de curiosidades pusimos datos curiosos que consideramos más relevantes y podrían atraerle al usuario, con imagenes representativas:
 
 
 
