@@ -394,4 +394,7 @@ a {
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   ;
   src: url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+  font-family: 'Harry Potter', serif;
+
+  src: url('http://fonts.cdnfonts.com/css/harry-potter')
 }
