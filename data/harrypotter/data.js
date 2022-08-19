@@ -805,7 +805,7 @@ export default {
     {
       "id": 50,
       "name": "Sirius Black",
-      "image": "\t<img src=\"https://i.gifer.com/origin/eb/ebdeee4dee5d471078ec61a61eeb0a00_w200.gif\" \t alt=\"SiriusBlack\"  \tclass=\"thumbimage \" \t \tdata-image-key=\"siriusBlack.JPG\" \tdata-image-name=\"sBlack.JPG\" \t \t width=\"30\"  \t height=\"30\"  \t \t \t \t>", 
+      "image": "\t<img src=\"https://i.gifer.com/origin/eb/ebdeee4dee5d471078ec61a61eeb0a00_w200.gif\" \t alt=\"SiriusBlack\"  \tclass=\"thumbimage \" \t \tdata-image-key=\"siriusBlack.JPG\" \tdata-image-name=\"sBlack.JPG\" \t \t width=\"30\"  \t height=\"30\"  \t \t \t \t>",
       "birth": "3 November, 1959",
       "death": "18 June, 1996 (aged 36)",
       "species": "Human",
@@ -1933,7 +1933,7 @@ export default {
     {
       "id": 117,
       "name": "Cedric Diggory",
-      "image": "\t<img src=\"https://c.tenor.com/4VROEIhV3-sAAAAM/cedric-diggory.gif\" \t alt=\"cedricDigory\"  \tclass=\"thumbimage \" \t \tdata-image-key=\"cedricDigory.JPG\" \tdata-image-name=\"cDigory.JPG\" \t \t width=\"30\"  \t height=\"30\"  \t \t \t \t>", 
+      "image": "\t<img src=\"https://c.tenor.com/4VROEIhV3-sAAAAM/cedric-diggory.gif\" \t alt=\"cedricDigory\"  \tclass=\"thumbimage \" \t \tdata-image-key=\"cedricDigory.JPG\" \tdata-image-name=\"cDigory.JPG\" \t \t width=\"30\"  \t height=\"30\"  \t \t \t \t>",
       "birth": "between 1 September and 30 October 1977",
       "death": "24 June, 1995 (aged 17)",
       "species": "Human",
@@ -3383,7 +3383,7 @@ export default {
     {
       "id": 205,
       "name": "Rubeus Hagrid",
-      "image": "\t<img src=\"https://c.tenor.com/CSTn8eb1x8IAAAAC/hagrid-harry-potter.gif\" \t alt=\"Hagrid\"  \tclass=\"thumbimage \" \t \tdata-image-key=\"Hagrid.JPG\" \tdata-image-name=\"Hagrid.JPG\" \t \t width=\"30\"  \t height=\"30\"  \t \t \t \t>", 
+      "image": "\t<img src=\"https://c.tenor.com/CSTn8eb1x8IAAAAC/hagrid-harry-potter.gif\" \t alt=\"Hagrid\"  \tclass=\"thumbimage \" \t \tdata-image-key=\"Hagrid.JPG\" \tdata-image-name=\"Hagrid.JPG\" \t \t width=\"30\"  \t height=\"30\"  \t \t \t \t>",
       "birth": "6 December 1928",
       "death": " No information",
       "species": "Half-Human/Half-Giant",
@@ -4212,7 +4212,7 @@ export default {
     {
       "id": 254,
       "name": "Neville Longbottom",
-      "image": "\t<img src=\"https://i.pinimg.com/originals/9b/63/26/9b6326bb1d79bb79bca9bcc9b1c88405.gif\" \t alt=\"nevilleLongbotom\"  \tclass=\"thumbimage \" \t \tdata-image-key=\"longbotom.JPG\" \tdata-image-name=\"longbotom.JPG\" \t \t width=\"30\"  \t height=\"30\"  \t \t \t \t>", 
+      "image": "\t<img src=\"https://i.pinimg.com/originals/9b/63/26/9b6326bb1d79bb79bca9bcc9b1c88405.gif\" \t alt=\"nevilleLongbotom\"  \tclass=\"thumbimage \" \t \tdata-image-key=\"longbotom.JPG\" \tdata-image-name=\"longbotom.JPG\" \t \t width=\"30\"  \t height=\"30\"  \t \t \t \t>",
       "birth": "30 July, 1980",
       "death": " No information",
       "species": "Human",
@@ -4470,7 +4470,7 @@ export default {
     {
       "id": 267,
       "name": "Draco Malfoy",
-      "image": "\t<img src=\"https://c.tenor.com/Ul5QaVfqcKMAAAAd/draco-malfoy.gif\" \t alt=\"DracoMalfoy\"  \tclass=\"thumbimage \" \t \tdata-image-key=\"dracoMalfoy.JPG\" \tdata-image-name=\"dMalfoy.JPG\" \t \t width=\"30\"  \t height=\"30\"  \t \t \t \t>", 
+      "image": "\t<img src=\"https://c.tenor.com/Ul5QaVfqcKMAAAAd/draco-malfoy.gif\" \t alt=\"DracoMalfoy\"  \tclass=\"thumbimage \" \t \tdata-image-key=\"dracoMalfoy.JPG\" \tdata-image-name=\"dMalfoy.JPG\" \t \t width=\"30\"  \t height=\"30\"  \t \t \t \t>",
       "birth": "5 June, 1980",
       "death": " No information",
       "species": "Human",
@@ -4487,7 +4487,7 @@ export default {
     {
       "id": 268,
       "name": "Lucius Malfoy",
-      "image": "\t<img src=\"https://c.tenor.com/Rf74M4JF_PMAAAAC/lucius-lucius-malfoy.gif\" \t alt=\"LuciusMalfoy\"  \tclass=\"thumbimage \" \t \tdata-image-key=\"Lucius.JPG\" \tdata-image-name=\"LuciusM.JPG\" \t \t width=\"30\"  \t height=\"30\"  \t \t \t \t>", 
+      "image": "\t<img src=\"https://c.tenor.com/Rf74M4JF_PMAAAAC/lucius-lucius-malfoy.gif\" \t alt=\"LuciusMalfoy\"  \tclass=\"thumbimage \" \t \tdata-image-key=\"Lucius.JPG\" \tdata-image-name=\"LuciusM.JPG\" \t \t width=\"30\"  \t height=\"30\"  \t \t \t \t>",
       "birth": "between 9 September 1953 <br> and 8 September 1954",
       "death": " No information",
       "species": "Human",
@@ -5470,7 +5470,7 @@ export default {
     },
     {
       "id": 326,
-      "name": "Harry Potter", 
+      "name": "Harry Potter",
       "image": "\t<img src=\"https://c.tenor.com/CFTMtlT6uTIAAAAd/harry-potter.gif\" \t alt=\"HarryPotter\"  \tclass=\"thumbimage \" \t \tdata-image-key=\"HarryPotter.Gif\" \tdata-image-name=\"castleH.Gif\" \t \t width=\"30\"  \t height=\"30\"  \t \t \t \t>",
       "birth": "31 July, 1980",
       "death": " No information",
@@ -5496,9 +5496,9 @@ export default {
         "Auror Office",
         "Department of Magical Law Enforcement",
         "S.P.E.W.",
-        
+
       ],
-      "books_featured_in": [1, 2, 3, 4, 5, 6, 7] 
+      "books_featured_in": [1, 2, 3, 4, 5, 6, 7]
     },
     {
       "id": 327,
@@ -5879,7 +5879,7 @@ export default {
     {
       "id": 350,
       "name": "Tom Riddle (Voldemort)",
-      "image":  "\t<img src=\"https://c.tenor.com/Vvxn-bF8tbsAAAAC/tom-riddle.gif\" \t alt=\"TomRiddle\"  \tclass=\"thumbimage \" \t \tdata-image-key=\"tomRiddle.JPG\" \tdata-image-name=\"tRiddle.JPG\" \t \t width=\"30\"  \t height=\"30\"  \t \t \t \t>", 
+      "image": "\t<img src=\"https://c.tenor.com/Vvxn-bF8tbsAAAAC/tom-riddle.gif\" \t alt=\"TomRiddle\"  \tclass=\"thumbimage \" \t \tdata-image-key=\"tomRiddle.JPG\" \tdata-image-name=\"tRiddle.JPG\" \t \t width=\"30\"  \t height=\"30\"  \t \t \t \t>",
       "birth": "31 December, 1926",
       "death": "2 May, 1998 (aged 71)",
       "species": "Human",
@@ -6441,7 +6441,7 @@ export default {
     {
       "id": 382,
       "name": "Severus Snape",
-      "image": "\t<img src=\"https://c.tenor.com/pCNKLVPb4I4AAAAC/severus-snape.gif\" \t alt=\"SeverusSnape\"  \tclass=\"thumbimage \" \t \tdata-image-key=\"severusSnape.JPG\" \tdata-image-name=\"sSnape.JPG\" \t \t width=\"30\"  \t height=\"30\"  \t \t \t \t>", 
+      "image": "\t<img src=\"https://c.tenor.com/pCNKLVPb4I4AAAAC/severus-snape.gif\" \t alt=\"SeverusSnape\"  \tclass=\"thumbimage \" \t \tdata-image-key=\"severusSnape.JPG\" \tdata-image-name=\"sSnape.JPG\" \t \t width=\"30\"  \t height=\"30\"  \t \t \t \t>",
       "birth": "9 January 1960",
       "death": "2 May 1998 (aged 38)",
       "species": "Human",
@@ -7300,7 +7300,7 @@ export default {
     {
       "id": 472,
       "name": "Fred Weasley",
-      "image":  "\t<img src=\"https://64.media.tumblr.com/cdf78d4cf8a644ce2fa41e178a088ed9/e456144cbf116dda-e4/s1280x1920/06a298a3f7d907b39a3aab2e03ddc5fc0fbd2a13.gifv\" \t alt=\"FredWeasley\"  \tclass=\"thumbimage \" \t \tdata-image-key=\"freadWeasley.JPG\" \tdata-image-name=\"fWeasley.JPG\" \t \t width=\"30\"  \t height=\"30\"  \t \t \t \t>", 
+      "image": "\t<img src=\"https://64.media.tumblr.com/cdf78d4cf8a644ce2fa41e178a088ed9/e456144cbf116dda-e4/s1280x1920/06a298a3f7d907b39a3aab2e03ddc5fc0fbd2a13.gifv\" \t alt=\"FredWeasley\"  \tclass=\"thumbimage \" \t \tdata-image-key=\"freadWeasley.JPG\" \tdata-image-name=\"fWeasley.JPG\" \t \t width=\"30\"  \t height=\"30\"  \t \t \t \t>",
       "birth": "1 April, 1978",
       "death": "2 May, 1998 (aged 20)",
       "species": "Human",
@@ -7328,7 +7328,7 @@ export default {
     {
       "id": 473,
       "name": "George Weasley",
-      "image": "\t<img src=\"https://img.wattpad.com/b2e36bdbbd75d127eda5bb110bc51d88d5540b19/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f54676f375f6477574164653241413d3d2d3934353935353534362e3136333064636632383335333430313634303731333134343738372e676966\" \t alt=\"GeorgeWeasley\"  \tclass=\"thumbimage \" \t \tdata-image-key=\"georgeWeasley.JPG\" \tdata-image-name=\"gWeasley.JPG\" \t \t width=\"30\"  \t height=\"30\"  \t \t \t \t>", 
+      "image": "\t<img src=\"https://img.wattpad.com/b2e36bdbbd75d127eda5bb110bc51d88d5540b19/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f54676f375f6477574164653241413d3d2d3934353935353534362e3136333064636632383335333430313634303731333134343738372e676966\" \t alt=\"GeorgeWeasley\"  \tclass=\"thumbimage \" \t \tdata-image-key=\"georgeWeasley.JPG\" \tdata-image-name=\"gWeasley.JPG\" \t \t width=\"30\"  \t height=\"30\"  \t \t \t \t>",
       "birth": "1 April, 1978",
       "death": " No information",
       "species": "Human",
@@ -7395,7 +7395,7 @@ export default {
     {
       "id": 476,
       "name": "Ronald Weasley",
-      "image":"\t<img src=\"https://64.media.tumblr.com/bd057a9cef80d68ffa680834ab4ca7a0/49445fce0c4c9d64-1a/s400x600/861f844b5523e5c46440fb2046809e5054a7f241.gifv\" \t alt=\"HarryPotter\"  \tclass=\"thumbimage \" \t \tdata-image-key=\"HarryPotter.Gif\" \tdata-image-name=\"castleH.Gif\"  \t \t width=\"10%\"  \t height=\"10%\"  \t \t \t \t>",
+      "image": "\t<img src=\"https://64.media.tumblr.com/bd057a9cef80d68ffa680834ab4ca7a0/49445fce0c4c9d64-1a/s400x600/861f844b5523e5c46440fb2046809e5054a7f241.gifv\" \t alt=\"HarryPotter\"  \tclass=\"thumbimage \" \t \tdata-image-key=\"HarryPotter.Gif\" \tdata-image-name=\"castleH.Gif\"  \t \t width=\"10%\"  \t height=\"10%\"  \t \t \t \t>",
       "birth": "1 March, 1980",
       "death": " No information",
       "species": "Human",
@@ -8364,7 +8364,7 @@ export default {
     {
       "id": 533,
       "name": "Cho Chang",
-      "image": "\t<img src=\"https://c.tenor.com/_asoH275bhkAAAAC/harry-potter-cho-chang.gif\" \t alt=\"ChoChang\"  \tclass=\"thumbimage \" \t \tdata-image-key=\"ChoChang.JPG\" \tdata-image-name=\"ChoChang.JPG\" \t \t width=\"30\"  \t height=\"30\"  \t \t \t \t>", 
+      "image": "\t<img src=\"https://c.tenor.com/_asoH275bhkAAAAC/harry-potter-cho-chang.gif\" \t alt=\"ChoChang\"  \tclass=\"thumbimage \" \t \tdata-image-key=\"ChoChang.JPG\" \tdata-image-name=\"ChoChang.JPG\" \t \t width=\"30\"  \t height=\"30\"  \t \t \t \t>",
       "birth": "between 1 September 1978 and 31 August 1979",
       "death": " No information",
       "species": "Human",
@@ -9200,7 +9200,7 @@ export default {
     },
     {
       "id": 587,
-      "name": "Hermione Granger", 
+      "name": "Hermione Granger",
       "image": "\t<img src=\"https://th.bing.com/th/id/R.4e918773aacf101ca5312407a40043de?rik=gk2MnhkDJdf2tw&pid=ImgRaw&r=0\" \t alt=\"HarryPotter\"  \tclass=\"thumbimage \" \t \tdata-image-key=\"HarryPotter.Gif\" \tdata-image-name=\"castleH.Gif\" \t \t width=\"30\"  \t height=\"30\"  \t \t \t \t>",
       "birth": "19 September, 1979",
       "death": " No information",
@@ -9780,7 +9780,7 @@ export default {
     {
       "id": 622,
       "name": "Bellatrix Lestrange",
-      "image": "\t<img src=\"https://data.whicdn.com/images/254138800/original.gif\" \t alt=\"Bellatrix\"  \tclass=\"thumbimage \" \t \tdata-image-key=\"Bellatrix.JPG\" \tdata-image-name=\"BellatrixL.JPG\" \t \t width=\"30\"  \t height=\"30\"  \t \t \t \t>", 
+      "image": "\t<img src=\"https://data.whicdn.com/images/254138800/original.gif\" \t alt=\"Bellatrix\"  \tclass=\"thumbimage \" \t \tdata-image-key=\"Bellatrix.JPG\" \tdata-image-name=\"BellatrixL.JPG\" \t \t width=\"30\"  \t height=\"30\"  \t \t \t \t>",
       "birth": "1951",
       "death": "2 May, 1998 (aged 46 - 47)",
       "species": "Human",
@@ -9834,7 +9834,7 @@ export default {
     {
       "id": 625,
       "name": "Luna Lovegood",
-      "image": "\t<img src=\"https://c.tenor.com/pewXqs3r8d8AAAAC/luna-lovegood.gif\" \t alt=\"LunaLovegood\"  \tclass=\"thumbimage \" \t \tdata-image-key=\"lunaLovegood.JPG\" \tdata-image-name=\"lLovegood.JPG\" \t \t width=\"30\"  \t height=\"30\"  \t \t \t \t>", 
+      "image": "\t<img src=\"https://c.tenor.com/pewXqs3r8d8AAAAC/luna-lovegood.gif\" \t alt=\"LunaLovegood\"  \tclass=\"thumbimage \" \t \tdata-image-key=\"lunaLovegood.JPG\" \tdata-image-name=\"lLovegood.JPG\" \t \t width=\"30\"  \t height=\"30\"  \t \t \t \t>",
       "birth": "13 February, 1981",
       "death": " No information",
       "species": "Human",
@@ -11769,7 +11769,7 @@ export default {
     {
       "id": 743,
       "name": "Ginny Weasley",
-      "image": "\t<img src=\"http://pa1.narvii.com/7533/2abe4cadc14c88e18607d02bccb7d7cc43a2e73cr1-245-300_00.gif\" \t alt=\"GinniWeasley\"  \tclass=\"thumbimage \" \t \tdata-image-key=\"ginWeasley.JPG\" \tdata-image-name=\"gWeasley.JPG\" \t \t width=\"30\"  \t height=\"30\"  \t \t \t \t>", 
+      "image": "\t<img src=\"http://pa1.narvii.com/7533/2abe4cadc14c88e18607d02bccb7d7cc43a2e73cr1-245-300_00.gif\" \t alt=\"GinniWeasley\"  \tclass=\"thumbimage \" \t \tdata-image-key=\"ginWeasley.JPG\" \tdata-image-name=\"gWeasley.JPG\" \t \t width=\"30\"  \t height=\"30\"  \t \t \t \t>",
       "birth": "11 August, 1981",
       "death": " No information",
       "species": "Human",
@@ -12010,7 +12010,7 @@ export default {
     {
       "id": 756,
       "name": "Albus Dumbledore",
-      "image": "\t<img src=\"https://s12.favim.com/gif_previews/7/713/7134/71341/7134163.gif\" \t alt=\"Dumbledore\"  \tclass=\"thumbimage \" \t \tdata-image-key=\"Dumbledore.JPG\" \tdata-image-name=\"Dumbledore.JPG\" \t \t width=\"30\"  \t height=\"30\"  \t \t \t \t>", 
+      "image": "\t<img src=\"https://s12.favim.com/gif_previews/7/713/7134/71341/7134163.gif\" \t alt=\"Dumbledore\"  \tclass=\"thumbimage \" \t \tdata-image-key=\"Dumbledore.JPG\" \tdata-image-name=\"Dumbledore.JPG\" \t \t width=\"30\"  \t height=\"30\"  \t \t \t \t>",
       "birth": "Late August 1881",
       "death": "30 June, 1997 (aged 115)",
       "species": "Human",
@@ -12042,7 +12042,7 @@ export default {
     {
       "id": 1,
       "name": "Hogwarts",
-      "content": "El castillo de Hogwarts es una maqueta construida por 82 artistas  se extiende a lo largo de  Construído por 86 artistas, se extiende a lo largo de más de 15 metros e incorpora más de 2.500 luces de fibra óptica para simular antorchas y personas caminando por su interior. Se basa en el castillo de Alnwick y en la catedral de Durham \t<img src=\"https://i0.wp.com/www.labrujulaverde.com/wp-content/uploads/2016/10/hogwarts-1.jpg?fit=630%2C405&ssl=1\" \t alt=\"HowartsCastle2\"  \tclass=\"thumbimage \" \t \tdata-image-key=\"TwoProtego.JPG\" \tdata-image-name=\"castle.JPG\" \t \t width=\"30\"  \t height=\"30\"  \t \t \t \t> \t<img src=\"https://i0.wp.com/www.labrujulaverde.com/files/2012/03/hogwarts-2.jpg?w=580&ssl=1\" \t alt=\"HowartsCastle2\"  \tclass=\"thumbimage \" \t \tdata-image-key=\"TwoProtego.JPG\" \tdata-image-name=\"castle.JPG\" \t \t width=\"30\"  \t height=\"30\"  \t \t \t \t>", 
+      "content": "El castillo de Hogwarts es una maqueta construida por 82 artistas  se extiende a lo largo de  Construído por 86 artistas, se extiende a lo largo de más de 15 metros e incorpora más de 2.500 luces de fibra óptica para simular antorchas y personas caminando por su interior. Se basa en el castillo de Alnwick y en la catedral de Durham \t<img src=\"https://i0.wp.com/www.labrujulaverde.com/wp-content/uploads/2016/10/hogwarts-1.jpg?fit=630%2C405&ssl=1\" \t alt=\"HowartsCastle2\"  \tclass=\"thumbimage \" \t \tdata-image-key=\"TwoProtego.JPG\" \tdata-image-name=\"castle.JPG\" \t \t width=\"30\"  \t height=\"30\"  \t \t \t \t> \t<img src=\"https://i0.wp.com/www.labrujulaverde.com/files/2012/03/hogwarts-2.jpg?w=580&ssl=1\" \t alt=\"HowartsCastle2\"  \tclass=\"thumbimage \" \t \tdata-image-key=\"TwoProtego.JPG\" \tdata-image-name=\"castle.JPG\" \t \t width=\"30\"  \t height=\"30\"  \t \t \t \t>",
     },
     {
       "id": 2,
@@ -12099,7 +12099,7 @@ export default {
       "other_name": "Summoning Charm",
       "pronunciation": "Various, including: AK-ee-oh or AK-see-oh<br> , AK-see-oh , AS-see-oh (US), and AT-chee-oh <br> (Anglo-Catholic <br> pronunciation)",
       "spell_type": "Charm",
-      "description": "Summons an object towards the caster. It is <br> able to  summon objects in direct line of sight of the caster,<br> as well as things out of view, by calling the object aloud <br> after the incantation (unless the spell is casted nonverbally).<br> This spell needs thought behind it, and the object must be clear in the casters mind before trying to summon it. The caster doesn't necessarily need to know the location of the target if they say the name of the object to be summoned, such as when Hermione Granger summoned some books from Dumbledore's office simply by saying \"Accio Horcrux books!\" while in Gryffindor Tower.",
+      "description": "Summons an object towards the caster. It is  able to  summon objects in direct line of sight of the caster, as well as things out of view, by calling the object aloud after the incantation (unless the spell is casted nonverbally). This spell needs thought behind it, and the object must be clear in the casters mind before trying to summon it. The caster doesn't necessarily need to know the location of the target if they say the name of the object to be summoned, such as when Hermione Granger summoned some books from Dumbledore's office simply by saying \"Accio Horcrux books!\" while in Gryffindor Tower.",
       "mention": "Harry Potter summoned his broom to complete the first task of the Triwizard Tournament in 1994, and to summon the Portkey to escape Voldemort and the Death Eaters in the Little Hangleton Graveyard in 1995. Also, in the Battle of the Seven Potters Harry summoned Hagrid when he fell. Molly Weasley used it to get the twins' candy. The twins used it to summon their brooms from Dolores Umbridge's office",
       "etymology": "The Latin word accio means \"I call\" or \"I summon\".",
       "note": " No information"
@@ -12152,12 +12152,12 @@ export default {
     {
       "id": 7,
       "name": "Alohomora",
-      "image": "\t<img src=\"https://th.bing.com/th/id/R.97fffd17b8cbdeca14f08e47559c0da6?rik=%2fU3c%2f4r7vWaUPA&pid=ImgRaw&r=0\" \t alt=\"HarryPotter\"  \tclass=\"thumbimage \" \t \tdata-image-key=\"HarryPotter.Gif\" \tdata-image-name=\"castleH.Gif\" \t \t width=\"30\"  \t height=\"30\"  \t \t \t \t>", 
+      "image": "\t<img src=\"https://th.bing.com/th/id/R.97fffd17b8cbdeca14f08e47559c0da6?rik=%2fU3c%2f4r7vWaUPA&pid=ImgRaw&r=0\" \t alt=\"HarryPotter\"  \tclass=\"thumbimage \" \t \tdata-image-key=\"HarryPotter.Gif\" \tdata-image-name=\"castleH.Gif\" \t \t width=\"30\"  \t height=\"30\"  \t \t \t \t>",
       "other_name": "Unlocking Charm",
       "pronunciation": "ah-LOH-ho-MOR-ah",
       "spell_type": "Charm",
-      "description": "Unlocks doors and other objects. It can also unlock <br> doors  that have been sealed with a Locking Spell, although it is <br> possible to  bewitch doors to become unaffected by this spell.",
-      "mention": "Used by Hermione Granger in 1991 to allow her and <br> her friends to access the Third-floor corridor at her school, <br> which was at the time forbidden; she used it again two years later to <br> free Sirius's cell in her <br> teacher's prison room.",
+      "description": "Unlocks doors and other objects. It can also unlock doors  that have been sealed with a Locking Spell, although it is possible to  bewitch doors to become unaffected by this spell.",
+      "mention": "Used by Hermione Granger in 1991 to allow her and  her friends to access the Third-floor corridor at her school, which was at the time forbidden; she used it again two years later to  free Sirius's cell in her teacher's prison room.",
       "etymology": " No information",
       "note": " No information"
     },
@@ -14412,8 +14412,8 @@ export default {
       "other_name": "Full Body-Bind Curse",
       "pronunciation": "pe-TRI-fi-cus to-TAH-lus",
       "spell_type": "Curse",
-      "description": "Used to temporarily bind the victim's body in a position <br> much like that of a soldier at attention; the victim will usually fall to <br> the  ground.",
-      "mention": "Used in 1991 by Hermione, who was trying to prevent <br> Neville from stopping her, Ron, and Harry from leaving the common <br> room to hunt for the Philosopher's Stone,  in the Hall of Prophecy <br> during the Battle of the Department of Mysteries to petrify one of the <br> Death Eaters pursuing the group, and used on Harry by Draco Malfoy in the Hogwarts Express in 1996.",
+      "description": "Used to temporarily bind the victim's body in a position much like that of a soldier at attention; the victim will usually fall to the  ground.",
+      "mention": "Used in 1991 by Hermione, who was trying to prevent Neville from stopping her, Ron, and Harry from leaving the common room to hunt for the Philosopher's Stone,  in the Hall of Prophecy during the Battle of the Department of Mysteries to petrify one of the Death Eaters pursuing the group, and used on Harry by Draco Malfoy in the Hogwarts Express in 1996.",
       "etymology": "Latin petra, meaning \"stone\", and fieri (past participle factus), meaning \"to become\"; totalus comes from Latin \"totus\", meaning \"complete\".",
       "note": " No information"
     },

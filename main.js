@@ -6,6 +6,11 @@ document.addEventListener('click', playSound);
 
 const allCharacters = data.characters
 
+function defineImage(image) {
+  if (image !== undefined) { return image }
+  else { return "" }
+}
+
 
 let divT = document.getElementById("charactersTable")
 //Guardo en una variable los datos de los personajes, filtro por la casa y los creo en tabla
@@ -13,8 +18,9 @@ let characters = filterData(allCharacters, "Gryffindor")
 document.getElementById("gryffindor").addEventListener("click", function () {
   divT.innerHTML = ""
   characters.forEach((character) => {
+
     return document.getElementById("charactersTable").innerHTML +=
-      `<table class="allTables"><tr><td><strong>Nombre</strong>:${character.name}${character.image}</td><br> 
+      `<div class="allTables"><table><tr><td><strong>Nombre</strong>:${character.name}</td><br> 
     <tr><td><strong>Nacimiento</strong>:${character.birth}</tr></td>
     <tr><td><strong>Muerte</strong>:${character.death}</td></tr>
      <tr><td><strong>Especie</strong>:${character.species}</td></tr>
@@ -26,7 +32,8 @@ document.getElementById("gryffindor").addEventListener("click", function () {
      <tr><td><strong>Patronus</strong>:${character.patronus}</td></tr>
      <tr><td><strong>Casa</strong>:${character.house}</td></tr>
      <tr><td><strong>Grupo Asociado</strong>:${character.associated_groups}</td></tr>
-     <tr><td><strong>Aparicion en Libros</strong>:${character.books_featured_in}</td></tr></table>`
+     <tr><td><strong>Aparicion en Libros</strong>:${character.books_featured_in}</td></tr></table>
+     ${defineImage(character.image)} </div>`
   })
 });
 
@@ -35,7 +42,7 @@ document.getElementById("slythering").addEventListener("click", function () {
   divT.innerHTML = ""
   characters2.forEach((character) => {
     return document.getElementById("charactersTable").innerHTML +=
-      `<table class="allTablesSly"><tr><td><strong>Nombre</strong>:${character.name}${character.image}</td><br> 
+      `<div class="allTables"><table><tr><td><strong>Nombre</strong>:${character.name}</td><br> 
     <tr><td><strong>Nacimiento</strong>:${character.birth}</tr></td>
     <tr><td><strong>Muerte</strong>:${character.death}</td></tr>
      <tr><td><strong>Especie</strong>:${character.species}</td></tr>
@@ -47,7 +54,8 @@ document.getElementById("slythering").addEventListener("click", function () {
      <tr><td><strong>Patronus</strong>:${character.patronus}</td></tr>
      <tr><td><strong>Casa</strong>:${character.house}</td></tr>
      <tr><td><strong>Grupo Asociado</strong>:${character.associated_groups}</td></tr>
-     <tr><td><strong>Aparicion en Libros</strong>:${character.books_featured_in}</td></tr></table>`
+     <tr><td><strong>Aparicion en Libros</strong>:${character.books_featured_in}</td></tr></table>
+     ${defineImage(character.image)} </div>`
   })
 });
 
@@ -56,7 +64,7 @@ document.getElementById("revenclaw").addEventListener("click", function () {
   divT.innerHTML = ""
   characters3.forEach((character) => {
     return document.getElementById("charactersTable").innerHTML +=
-      `<table class="allTables"><tr><td><strong>Nombre</strong>:${character.name}${character.image}</td><br> 
+      `<div class="allTables"><table><tr><td><strong>Nombre</strong>:${character.name}</td><br> 
     <tr><td><strong>Nacimiento</strong>:${character.birth}</tr></td>
     <tr><td><strong>Muerte</strong>:${character.death}</td></tr>
      <tr><td><strong>Especie</strong>:${character.species}</td></tr>
@@ -68,7 +76,8 @@ document.getElementById("revenclaw").addEventListener("click", function () {
      <tr><td><strong>Patronus</strong>:${character.patronus}</td></tr>
      <tr><td><strong>Casa</strong>:${character.house}</td></tr>
      <tr><td><strong>Grupo Asociado</strong>:${character.associated_groups}</td></tr>
-     <tr><td><strong>Aparicion en Libros</strong>:${character.books_featured_in}</td></tr></table>`
+     <tr><td><strong>Aparicion en Libros</strong>:${character.books_featured_in}</td></tr></table>
+     ${defineImage(character.image)} </div>`
   })
 });
 
@@ -77,7 +86,7 @@ document.getElementById("hafelpuf").addEventListener("click", function () {
   divT.innerHTML = ""
   characters4.forEach((character) => {
     return document.getElementById("charactersTable").innerHTML +=
-      `<table class="allTables"><tr><td><strong>Nombre</strong>:${character.name}${character.image}</td><br> 
+      `<div class="allTables"><table><tr><td><strong>Nombre</strong>:${character.name}</td><br> 
     <tr><td><strong>Nacimiento</strong>:${character.birth}</tr></td>
     <tr><td><strong>Muerte</strong>:${character.death}</td></tr>
      <tr><td><strong>Especie</strong>:${character.species}</td></tr>
@@ -89,7 +98,8 @@ document.getElementById("hafelpuf").addEventListener("click", function () {
      <tr><td><strong>Patronus</strong>:${character.patronus}</td></tr>
      <tr><td><strong>Casa</strong>:${character.house}</td></tr>
      <tr><td><strong>Grupo Asociado</strong>:${character.associated_groups}</td></tr>
-     <tr><td><strong>Aparicion en Libros</strong>:${character.books_featured_in}</td></tr></table>`
+     <tr><td><strong>Aparicion en Libros</strong>:${character.books_featured_in}</td></tr></table>
+     ${defineImage(character.image)}`
   })
 });
 
@@ -98,7 +108,7 @@ document.getElementById("muggle").addEventListener("click", function () {
   divT.innerHTML = ""
   characters5.forEach((character) => {
     return document.getElementById("charactersTable").innerHTML +=
-      `<table class="allTables"><tr><td><strong>Nombre</strong>:${character.name}${character.image}</td><br> 
+      `<div class="allTables"><table><tr><td><strong>Nombre</strong>:${character.name}</td><br> 
      <tr><td><strong>Nacimiento</strong>:${character.birth}</tr></td>
      <tr><td><strong>Muerte</strong>:${character.death}</td></tr>
       <tr><td><strong>Especie</strong>:${character.species}</td></tr>
@@ -110,7 +120,8 @@ document.getElementById("muggle").addEventListener("click", function () {
       <tr><td><strong>Patronus</strong>:${character.patronus}</td></tr>
       <tr><td><strong>Casa</strong>:${character.house}</td></tr>
       <tr><td><strong>Grupo Asociado</strong>:${character.associated_groups}</td></tr>
-      <tr><td><strong>Aparicion en Libros</strong>:${character.books_featured_in}</td></tr></table>`
+      <tr><td><strong>Aparicion en Libros</strong>:${character.books_featured_in}</td></tr></table>
+      ${defineImage(character.image)}`
   })
 });
 

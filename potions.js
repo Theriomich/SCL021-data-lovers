@@ -5,13 +5,17 @@ document.addEventListener('click', playSound);
 
 const allPotions = data.potions
 
-allPotions.forEach((potion) => {    
-    document.getElementById("potionsDiv").innerHTML+=
-    `<table class="allTablesPot"><tr><td><strong>Nombre</strong>:${potion.name}${potion.image}</td><br> 
+function defineImage(image) {
+    if (image !== undefined) { return image }
+    else { return "" }
+}
+
+allPotions.forEach((potion) => {
+    document.getElementById("potionsDiv").innerHTML +=
+        `<div class="allTables"><table><tr><td><strong>Nombre</strong>:${potion.name}</td><br> 
      <tr><td><strong>Descripción</strong>:${potion.description}</tr></td>
-     </table>`
-   
-  });
+     </table>${defineImage(potion.image)}</div>`
+
+});
 
 
- 
