@@ -60,6 +60,8 @@ En el pie de todas las paginas tenemos los links que nos rediregen a nuestros re
 
 ![Curiosidades](src/img/footerimg.PNG)
 
+probando probando xd
+
 
 
 
