@@ -45,16 +45,4 @@ En el pie de todas las paginas tenemos los links que nos rediregen a nuestros re
 
 ![Curiosidades](src/img/footerimg.PNG)
 
-<<<<<<< HEAD
 
-
-
-
-
-
-
-
-
-=======
-probando otra vez
->>>>>>> 9b6416ee6f3a47de504cb6c07b9a6a417f2561d5
