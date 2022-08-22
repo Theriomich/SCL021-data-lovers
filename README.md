@@ -24,13 +24,13 @@ Pusimos algunas imagenes en movimientos dentro de los personajes:
 
 Todas nuestras paginas tienen un boton de volver al Inicio que se enciende cuando pasas sobre ella y aparecen las letras, para darle un efecto de magia:
 
-![Boton Apagado](src/img/botonenc.PNG)
+![Boton Apagado](src/img/botonap.PNG)
 ![Boton Encendido](src/img/botonenc.PNG)
 
 En la pagina de hechizos tenemos mucha data de ellos, algunos con imagenes en movimiento también:
 
 ![Hechizos](src/img/hechizos-img.jpg)
-![Hechizos imagenes](src/img/botonenc.PNG)
+
 
 En la pagina de pociones pusimos algunas imagenes en movimiento junto a la data:
 
